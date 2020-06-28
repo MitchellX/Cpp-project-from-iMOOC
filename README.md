@@ -4,4 +4,4 @@
 
 
 # 常用git命令：
-git stash         本地仓库发生更改（如：删除文件），要执行改命令保存change
+git stash          本地仓库发生更改（如：删除文件），要执行改命令保存change
